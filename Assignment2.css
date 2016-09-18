@@ -1,0 +1,89 @@
+body	{
+	margin: 0;
+	background-color: yellow;
+}
+.Title	{
+	color: red;
+ 	background-color: black;
+ 	font-size: 36px;
+ 	text-align: center;
+ 	font-family: Arial;
+
+}
+.HowTo	{
+	color: black;
+	font-family: Helvetica;
+	font-size: 14px;
+	text-align: center;
+	display: flex;
+}
+.image	{
+	height: 100px;
+	width: 25px;
+	display: flex;
+
+}
+.Steps	{
+	display: flex;
+	margin: 20px
+}
+.Step1	{
+	color: black;
+	font-family: Helvetica;
+}
+.description1	{
+	color: red;
+	font-family: Helvetica;
+	text-align: left;
+	margin: auto;
+}
+.Step2	{
+	color: black;
+	font-family: Helvetica;
+}
+.description2	{
+	color: red;
+	font-family: Helvetica;
+	text-align: left;
+	margin: auto;
+}
+.Step3	{
+	color: black;
+	font-family: Helvetica;
+}
+.description3	{
+	color: red;
+	font-family: Helvetica;
+	text-align: left;
+	margin: auto;
+}
+.Step4	{
+	color: black;
+	font-family: Helvetica;
+}
+.description4	{
+	color: red;
+	font-family: Helvetica;
+	text-align: left;
+	margin: auto;
+}
+.Step5	{
+	color: black;
+	font-family: Helvetica;
+}
+.description5	{
+	color: red;
+	font-family: Helvetica;
+	text-align: left;
+	margin: auto;
+}
+.Step6	{
+	color: black;
+	font-family: Helvetica;
+}
+.description6	{
+	color: red;
+	font-family: Helvetica;
+	text-align: left;
+	margin: auto;
+}
